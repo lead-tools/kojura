@@ -17,6 +17,7 @@
 			<AutoMaxWidth>false</AutoMaxWidth>
 			<AutoMaxHeight>false</AutoMaxHeight>
 			<MultiLine>true</MultiLine>
+			<ExtendedEdit>true</ExtendedEdit>
 			<Font ref="style:NormalTextFont" faceName="Consolas" height="12" kind="StyleItem"/>
 			<ContextMenu name="ИсходникКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ИсходникРасширеннаяПодсказка" id="3"/>
@@ -26,6 +27,7 @@
 			<AutoMaxWidth>false</AutoMaxWidth>
 			<AutoMaxHeight>false</AutoMaxHeight>
 			<MultiLine>true</MultiLine>
+			<ExtendedEdit>true</ExtendedEdit>
 			<Font ref="style:NormalTextFont" faceName="Consolas" height="12" kind="StyleItem"/>
 			<ContextMenu name="РезультатКонтекстноеМеню" id="7"/>
 			<ExtendedTooltip name="РезультатРасширеннаяПодсказка" id="8"/>
